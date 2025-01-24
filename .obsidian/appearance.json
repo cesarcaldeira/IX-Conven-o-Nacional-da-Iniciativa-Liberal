@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "accentColor": "#00aeef",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": ""
+}

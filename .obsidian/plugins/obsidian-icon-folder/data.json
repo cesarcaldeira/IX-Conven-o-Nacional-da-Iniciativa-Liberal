@@ -1,0 +1,138 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiSmile",
+      "LiCalendarCheck",
+      "LiFileText",
+      "LiBadgeInfo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1. Convenção Nacional": {
+    "iconName": "LiLandmark",
+    "iconColor": "#00affe"
+  },
+  "2. Comissão Executiva e Moções de Estratégia Global": {
+    "iconName": "LiLandmark",
+    "iconColor": "#ff0000"
+  },
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista L": {
+    "iconName": "LiListTodo",
+    "iconColor": "#ff0000"
+  },
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista U": {
+    "iconName": "LiListTodo",
+    "iconColor": "#ff0000"
+  },
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Informações.md": "LiInfo",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Candidatos.md": "LiSmile",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Moção de Estratégia Global.md": "LiBookText",
+  "2. Comissão Executiva e Moções de Estratégia Global/(CE) Informações gerais.md": {
+    "iconName": "LiBadgeInfo",
+    "iconColor": "#ff0000"
+  },
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Candidatos.md": "LiSmile",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Informações.md": "LiInfo",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Moção de Estratégia Global.md": "LiBookText",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista L/Documentos PDF": "LiFileText",
+  "2. Comissão Executiva e Moções de Estratégia Global/Lista U/Documentos PDF": "LiFileText",
+  "1. Convenção Nacional/Programa da Convenção.md": {
+    "iconName": "LiCalendarCheck",
+    "iconColor": "#00aeff"
+  },
+  "3. Conselho Nacional": {
+    "iconName": "LiLandmark",
+    "iconColor": "#ffff00"
+  },
+  "3. Conselho Nacional/Lista A": "LiListTodo",
+  "3. Conselho Nacional/Lista D": "LiListTodo",
+  "3. Conselho Nacional/Lista F": "LiListTodo",
+  "3. Conselho Nacional/Lista M": "LiListTodo",
+  "3. Conselho Nacional/Lista T": "LiListTodo",
+  "3. Conselho Nacional/Lista X": "LiListTodo",
+  "5. Conselho de Fiscalização": {
+    "iconName": "LiLandmark",
+    "iconColor": "#ff00ff"
+  },
+  "5. Conselho de Fiscalização/Lista D": "LiListTodo",
+  "5. Conselho de Fiscalização/Lista T": "LiListTodo",
+  "5. Conselho de Fiscalização/Lista V": "LiListTodo",
+  "5. Conselho de Fiscalização/Lista X": "LiListTodo",
+  "4. Conselho de Jurisdição": {
+    "iconName": "LiLandmark",
+    "iconColor": "#00ff00"
+  },
+  "4. Conselho de Jurisdição/Lista J": "LiListTodo",
+  "4. Conselho de Jurisdição/Lista T": "LiListTodo",
+  "4. Conselho de Jurisdição/Lista X": "LiListTodo",
+  "6. Moções Setoriais": {
+    "iconName": "LiFileText",
+    "iconColor": "#00ffff"
+  },
+  "0. Pessoal": "LiSmile",
+  "0. Pessoal/Intenções de Voto.md": "LiVote",
+  "0. Pessoal/Notas": "LiNotebookPen",
+  "3. Conselho Nacional/Lista A/Documentos PDF": "LiFileText",
+  "3. Conselho Nacional/Lista D/Documentos PDF": "LiFileText",
+  "3. Conselho Nacional/Lista F/Documentos PDF": "LiFileText",
+  "3. Conselho Nacional/Lista M/Documentos PDF": "LiFileText",
+  "3. Conselho Nacional/Lista T/Documentos PDF": "LiFileText",
+  "3. Conselho Nacional/Lista X/Documentos PDF": "LiFileText",
+  "4. Conselho de Jurisdição/Lista J/Documentos PDF": "LiFileText",
+  "4. Conselho de Jurisdição/Lista T/Documentos PDF": "LiFileText",
+  "4. Conselho de Jurisdição/Lista X/Documentos PDF": "LiFileText",
+  "5. Conselho de Fiscalização/Lista D/Documentos PDF": "LiFileText",
+  "5. Conselho de Fiscalização/Lista T/Documentos PDF": "LiFileText",
+  "5. Conselho de Fiscalização/Lista V/Documentos PDF": "LiFileText",
+  "5. Conselho de Fiscalização/Lista X/Documentos PDF": "LiFileText",
+  "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade": "LiListTodo",
+  "6. Moções Setoriais/02. Moção pelos recursos naturais (minerais)": "LiListTodo",
+  "6. Moções Setoriais/03. Madeira +Autonomia, +Responsabilidade": "LiListTodo",
+  "6. Moções Setoriais/04.": "LiListTodo",
+  "6. Moções Setoriais/05.": "LiListTodo",
+  "6. Moções Setoriais/06.": "LiListTodo",
+  "6. Moções Setoriais/07.": "LiListTodo",
+  "6. Moções Setoriais/08.": "LiListTodo",
+  "6. Moções Setoriais/09.": "LiListTodo",
+  "6. Moções Setoriais/10.": "LiListTodo",
+  "6. Moções Setoriais/11.": "LiListTodo",
+  "6. Moções Setoriais/12.": "LiListTodo",
+  "6. Moções Setoriais/13.": "LiListTodo",
+  "6. Moções Setoriais/14": "LiListTodo",
+  "6. Moções Setoriais/15.": "LiListTodo",
+  "6. Moções Setoriais/16.": "LiListTodo",
+  "6. Moções Setoriais/17.": "LiListTodo",
+  "6. Moções Setoriais/18.": "LiListTodo",
+  "6. Moções Setoriais/19.": "LiListTodo",
+  "6. Moções Setoriais/20.": "LiListTodo",
+  "6. Moções Setoriais/21.": "LiListTodo",
+  "6. Moções Setoriais/22.": "LiListTodo",
+  "6. Moções Setoriais/23.": "LiListTodo",
+  "6. Moções Setoriais/24.": "LiListTodo"
+}

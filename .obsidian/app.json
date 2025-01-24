@@ -1,0 +1,9 @@
+{
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true
+}

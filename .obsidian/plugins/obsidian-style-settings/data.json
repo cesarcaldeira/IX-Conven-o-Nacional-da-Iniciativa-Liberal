@@ -1,0 +1,15 @@
+{
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@vault-profile-display": "vault-profile-top",
+  "minimal-style@@hide-help": false,
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@metadata-heading-off": false,
+  "minimal-style@@metadata-add-property-off": false,
+  "minimal-style@@metadata-icons-off": false,
+  "minimal-style@@h1-size": "1.5em"
+}
