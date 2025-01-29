@@ -25,3 +25,7 @@ A **lista X** é candidata ao **Conselho Nacional**.
 # Links Externos
 
 **Nota:** Todos os links externos são o produto da minha pesquisa e recomendação por membros das listas.
+
+- **Site:** [listax.pt](https://listax.pt)
+- **E-mail:** [geral@listax.pt](mailto:geral@listax.pt)
+- **Manifesto:** [No site](https://listax.pt/manifesto-cn/)

@@ -25,3 +25,6 @@ A **lista F** é candidata ao **Conselho Nacional**.
 # Links Externos
 
 **Nota:** Todos os links externos são o produto da minha pesquisa e recomendação por membros das listas.
+
+- **WhatsApp:** [Chat WhatsApp c/ Bernardo Blanco](https://wa.me/message/2URNJ5QXHIM7F1)
+- **Site:** [il-listaf.pt](https://www.il-listaf.pt)
