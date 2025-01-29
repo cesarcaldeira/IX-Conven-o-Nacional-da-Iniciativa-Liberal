@@ -9,56 +9,19 @@ aliases:
 
 Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CJ.J) Informações|Lista J]].
 
-| Posição | Nº de Membro | Nome |
-| ------- | ------------ | ---- |
-| **1**   |              |      |
-| **2**   |              |      |
-| **3**   |              |      |
-| **4**   |              |      |
-| **5**   |              |      |
-| **6**   |              |      |
-| **7**   |              |      |
-| **8**   |              |      |
-| **9**   |              |      |
-| **10**  |              |      |
-| **11**  |              |      |
-| **12**  |              |      |
-| **13**  |              |      |
-| **14**  |              |      |
-| **15**  |              |      |
-| **16**  |              |      |
-| **17**  |              |      |
-| **18**  |              |      |
-| **19**  |              |      |
-| **20**  |              |      |
-| **21**  |              |      |
-| **22**  |              |      |
-| **23**  |              |      |
-| **24**  |              |      |
-| **25**  |              |      |
-| **26**  |              |      |
-| **27**  |              |      |
-| **28**  |              |      |
-| **29**  |              |      |
-| **30**  |              |      |
-| **31**  |              |      |
-| **32**  |              |      |
-| **33**  |              |      |
-| **34**  |              |      |
-| **35**  |              |      |
-| **36**  |              |      |
-| **37**  |              |      |
-| **38**  |              |      |
-| **39**  |              |      |
-| **40**  |              |      |
-| **41**  |              |      |
-| **42**  |              |      |
-| **43**  |              |      |
-| **44**  |              |      |
-| **45**  |              |      |
-| **46**  |              |      |
-| **47**  |              |      |
-| **48**  |              |      |
-| **49**  |              |      |
-| **50**  |              |      |
-| S1      |              |      |
+| **Posição** | **Nº de Membro** | **Nome**                               |
+| ----------- | ---------------- | -------------------------------------- |
+| **1**       | 5750             | Ana Isabel Fernão Pires da Silva Caio  |
+| **2**       | 2918             | João Francisco Rodrigues Quintas       |
+| **3**       | 316              | Bruno Miguel Carvalho Machado          |
+| **4**       | 7637             | Filipa dos Santos Silva                |
+| **5**       | 1722             | Vítor Manuel Ribeiro de Sequeira Neves |
+| **6**       | 3966             | Hernane Emanuel Barreira               |
+| **7**       | 1906             | Alexandra da Silva Azevedo             |
+| **8**       | 3989             | Gustavo Gil Nunes Cabral Sacadura      |
+| **9**       | 2516             | Ricardo Loureiro Falcão                |
+| **10**      | 4940             | Bernardo Basto e Sá Ferronha           |
+| **11**      | 8272             | Maria Martins Miranda                  |
+| **S1**      | 3559             | João Manuel Rangel Costa dos Santos    |
+| **S2**      | 3462             | Bernardo Pedrosa da Silva Pinto        |
+| **S3**      | 3790             | José Pedro Gonçalves Machado           |
