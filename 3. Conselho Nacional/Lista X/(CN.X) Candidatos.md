@@ -7,7 +7,7 @@ aliases:
   - Candidatos da lista T ao Conselho Nacional
 ---
 
-Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CN.T) Informações|Lista T]].
+Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CN.X) Informações|Lista X]].
 
 | Posição | Nº de Membro | Nome |
 | ------- | ------------ | ---- |

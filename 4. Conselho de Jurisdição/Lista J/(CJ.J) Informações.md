@@ -1,21 +1,21 @@
 ---
 tags:
-  - CN/A
-  - CN/Lista
+  - CJ/J
+  - CJ/Lista
 aliases:
-  - Conselho Nacional / Lista A
-  - Lista A
+  - Conselho de Jurisdição / Lista J
+  - Lista J
 ---
-A **lista A** é candidata ao **Conselho Nacional**.
+A **lista J** é candidata ao **Conselho de Jurisdição**.
 
 # Páginas relacionadas
 
-- [[(CN.T) Candidatos|Candidatos]]
+- [[(CJ.J) Candidatos|Candidatos]]
 
 # Documentos
 
-- [[(CN.A) Declaração de Candidatura.pdf]]
-- [[(CN.A) Subscritores.pdf]]
+- [[(CJ.J) Declaração de Candidatura.pdf]]
+- [[(CJ.J) Subscritores.pdf]]
 
 # Informações
 

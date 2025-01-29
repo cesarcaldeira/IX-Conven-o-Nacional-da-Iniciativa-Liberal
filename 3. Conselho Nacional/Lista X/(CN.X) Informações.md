@@ -1,21 +1,21 @@
 ---
 tags:
-  - CN/A
+  - CN/X
   - CN/Lista
 aliases:
-  - Conselho Nacional / Lista A
-  - Lista A
+  - Conselho Nacional / Lista X
+  - Lista X
 ---
-A **lista A** é candidata ao **Conselho Nacional**.
+A **lista X** é candidata ao **Conselho Nacional**.
 
 # Páginas relacionadas
 
-- [[(CN.T) Candidatos|Candidatos]]
+- [[(CN.X) Candidatos|Candidatos]]
 
 # Documentos
 
-- [[(CN.A) Declaração de Candidatura.pdf]]
-- [[(CN.A) Subscritores.pdf]]
+- [[(CN.X) Declaração de Candidatura.pdf]]
+- [[(CN.X) Subscritores.pdf]]
 
 # Informações
 

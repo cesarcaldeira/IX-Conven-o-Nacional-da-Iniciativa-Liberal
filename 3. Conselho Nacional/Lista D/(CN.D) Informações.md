@@ -1,21 +1,21 @@
 ---
 tags:
-  - CN/A
+  - CN/D
   - CN/Lista
 aliases:
-  - Conselho Nacional / Lista A
-  - Lista A
+  - Conselho Nacional / Lista D
+  - Lista D
 ---
-A **lista A** é candidata ao **Conselho Nacional**.
+A **lista D** é candidata ao **Conselho Nacional**.
 
 # Páginas relacionadas
 
-- [[(CN.T) Candidatos|Candidatos]]
+- [[(CN.D) Candidatos|Candidatos]]
 
 # Documentos
 
-- [[(CN.A) Declaração de Candidatura.pdf]]
-- [[(CN.A) Subscritores.pdf]]
+- [[(CN.D) Declaração de Candidatura.pdf]]
+- [[(CN.D) Subscritores.pdf]]
 
 # Informações
 

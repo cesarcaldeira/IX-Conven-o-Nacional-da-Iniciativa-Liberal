@@ -1,0 +1,56 @@
+---
+tags:
+  - M
+aliases:
+  - Moção 6
+  - Inteligência Artificial Liberal
+---
+O mundo está à beira de uma nova revolução tecnológica, que irá transformar a eco- nomia, a sociedade, e a própria política.
+
+O progresso no desenvolvimento de Inteligência Artificial (IA) acelerou significativa- mente na última década, com a revolução da tecnologia deep learning que, apesar de já ter sido concebida há várias épocas, tornou-se viável com os enormes avanços na tecnologia de microprocessadores. Na última década, começaram-se a construir modelos especificamente treinados em largos repositórios de linguagem humana na internet, criando os LLMs - Large Language Models. Estes modelos de IA têm demonstrado, também, terem capacidades multimodais: para além de poderem ser treinados e produzir conteúdo de texto, são também capazes de produzir vídeos, imagens e desempenhar algumas tarefas simples em computadores. O mundo ficou a conhecer os LLMs aquando da publicação do ChatGPT, o chatbot baseado no modelo GPT 3.5, criado pela OpenAI, em outubro de 2022.
+
+A OpenAI tem, entretanto, muitos mais competidores, como a Anthropic, a Google Deepmind, a Meta ou o xAI, a maioria deles numa corrida por um objetivo: a criação de uma Inteligência Artificial Geral (abreviado em inglês como AGI), termo original- mente definido pela OpenAI como ‘’sistemas altamente autónomos que superam os humanos na maioria dos trabalhos economicamente valiosos’’.
+
+Esta meta deve ser levada a sério. Muitas das figuras centrais no desenvolvimento desta tecnologia, tais como Geoffrey Hinton, Stuart Russel ou Yoshua Bengio estão certos que a atual arquitetura pode atingir esse objetivo com alguns anos de desen- volvimento. Alguns dos maiores céticos, tais como Yann LeCun, da Meta, já admitiram recentemente que podemos estar a dez anos deste marco. Esta deve ser encarada, sem dúvida, como a maior transformação dos nossos tempos. Independentemente da incerteza quanto a este marco, a evolução na qualidade dos modelos ao longo dos últimos anos tem sido exponencial: por mais que a memória de muitos ainda esteja associada ao GPT 3.5, a verdade é que os modelos mais recentes já melhora- ram de tal modo em qualidade que existe já uma verdadeira indústria de criação de benchmarks novos para avaliar as capacidades crescentes destes modelos.
+
+Esta aceleração tecnológica sem precedentes traz consigo tanto oportunidades extraordinárias como desafios sistémicos que exigem preparação estratégica. A competição internacional por liderança em IA intensifica-se diariamente, com impli- cações profundas para a competitividade económica e segurança nacional. Os Esta- dos Unidos e a China já reconheceram a IA como tecnologia crítica para soberania nacional, enquanto a Europa arrisca ficar para trás devido a abordagens regulató- rias excessivamente cautelosas.
+
+Portugal encontra-se num momento decisivo. Podemos escolher ser meros especta- dores desta revolução tecnológica ou posicionarmo-nos estrategicamente para cap- turar valor desta transformação histórica.
+
+A Iniciativa Liberal deve defender uma abordagem que maximize oportunidades económicas enquanto constrói capacidade institucional para a gestão prudente dos desafios únicos que esta tecnologia apresenta.
+
+# A NOSSA VISÃO ASSENTA EM TRÊS PILARES FUNDAMENTAIS:
+
+1. A criação de um ambiente regulatório que promova inovação responsável sem sufocá-la com burocracia excessiva. Portugal deve evitar ir além de qualquer regulação europeia neste aspeto.
+2. A modernização profunda da máquina do Estado através de IA, tornando a administração pública num organismo ágil e eficiente, capaz de servir cidadãos num mundo em rápida transformação.
+3. A transformação dos serviços fundamentais do Estado através de IA, maximi- zando liberdade individual e eficiência institucional.
+
+## 1. REGULAÇÃO QUE PROMOVA A INOVAÇÃO:
+
+A IA aos dias de hoje vai muito para além dos algoritmos tradicionais a que a esfera de políticas públicas se habituou a referir ao longo da última década. A disponibili- zação do acesso a estes modelos em aplicações acessíveis publicamente usando a linguagem natural diminui barreiras, e sobretudo custos, de acesso a conhecimento e a competências de raciocínio. Isto coloca enormes desafios políticos. É consensual entre os especialistas que assegurar o controlo total sobre estes modelos, especial- mente à medida que se tornam mais capazes, é ainda um desafio técnico difícil.
+
+Ainda há caminho por fazer para assegurar que a operação destes modelos se mantenha alinhada com os interesses humanos, e que somos suficientemente com- petentes a especificar os objetivos que lhes pretendemos atribuir. Mais do que a existência de regulação, defendemos que é necessário uma economia competitiva e de capital que permita desenvolver estes mecanismos de protecção. Regulação e restrições ao aparecimento de iniciativa individual e inovação prejudicam mais quem se vai ter de “defender” de um mau uso do que o contrário.
+
+Neste sentido, algumas das empresas que lideram neste campo - mas não todas - já desenvolveram algumas boas práticas no desenvolvimento destes modelos que podem e devem ser generalizadas ao ciclo de vida de desenvolvimento de qualquer LLM. Exemplos destas boas práticas são responsible scaling e a publicação de model cards detalhados a especificar, tanto quanto tecnicamente possível, e atra- vés do emprego de avaliadores externos, quais as capacidades e os riscos associa- dos a cada modelo.
+
+A OpenAI e a Anthropic já começaram também, por iniciativa própria, a partilhar informação sobre os seus modelos com os AI Safety Institutes do Reino Unido e dos Estados Unidos, antes do seu lançamento no mercado. A introdução destes requisi- tos para qualquer empresa que pretenda desenvolver LLMs consiste numa regula- ção leve, mas eficaz a assegurar que existe investimento e partilha de conhecimento 3 4 sobre os riscos e capacidades destes modelos. Uma boa regulação é uma regulação flexível que permita continuar este processo de aprendizagem, generalizando boas práticas no mercado e preservando a inovação.
+
+Esta abordagem está longe, contudo, da abordagem mais invasiva adotada não só no EU AI Act, como noutras peças legislativas europeias, que impõem encargos excessivos sobre as pequenas e médias empresas focadas em aplicações de IA com base em em LLMs ou algoritmos que nem sequer têm relação com LLMs. É, por isso, fundamental que Portugal não procure adiantar-se à União Europeia e procure respeitar a integridade do mercado interno: o grosso da regulação sobre IA deve ser europeu, para que estas regras sejam uniformes em todo o espaço europeu. Para isso, ainda vamos a tempo de combater o gold plating, tão criticado no relatório Draghi: a prática na qual os Estados-membros inventam regras e exigências novas quando transpõem diretivas.
+
+## 2. UMA ADMINISTRAÇÃO PÚBLICA MAIS EFICIENTE:
+
+A IA deve ser instrumento de liberalização e democratização de serviços públicos, não de centralização administrativa. Esta transformação digital do Estado não visa expandir o seu poder, mas sim torná-lo mais eficiente e transparente ao serviço dos cidadãos, abandonando a velha lógica da burocracia que se serve a si mesma. A Inteligência Artificial oferece inúmeras oportunidades para tornar a administração pública mais eficiente, promovendo maior agilidade, economia e qualidade nos ser- viços prestados. Seja na automação de processos repetitivos - como o atendimento ao cidadão para dúvidas frequentes, agendamentos e informações sobre serviços com o recurso a chatbots e assistentes virtuais ou a automação de análise e tria- gem de documentos, assim como requerimentos, licenças e processos administrati- vos; seja no planeamento e tomadas de decisão, permitindo antecipar picos de afluência por serviços públicos (saúde, educação, transporte) com base em padrões históricos, identificar alocações mais eficientes de orçamento e pessoal ou na detecção de fraudes com o uso de IA para identificar irregularidades em contratos, benefícios e outros processos.
+
+## 3. A TRANFORMAÇÃO DOS SERVIÇOS ESSENCIAIS DO ESTADO:
+
+A transformação digital do Estado deve começar pelos dados. Defendemos a democratização radical do acesso a dados públicos através de um repositório nacional de dados abertos, eliminando taxas desnecessárias e digitalizando arqui- vos históricos. A transparência não é apenas um princípio liberal - é um catalisador de inovação e eficiência. O custo da gratuitidade é amplamente compensado pelo potencial de escrutínio público e desenvolvimento económico que dados abertos possibilitam.
+
+Na **justiça**, a IA pode ser o instrumento de uma reforma há muito necessária. Atra- vés da automatização da análise, assistência na redação e controlo de qualidade, podemos aumentar dramaticamente a eficiência processual sem comprometer a autoridade decisória dos magistrados. A tecnologia deve servir para libertar o sistema judicial da burocracia, não para substituir o julgamento humano.
+
+Na **educação**, a revolução será profunda mas centrada no indivíduo. A IA não deve servir para centralizar ainda mais o sistema educativo, mas sim para libertar o potencial individual através de experiências de aprendizagem personalizadas. Defendemos um ecossistema educativo pluralista, onde IA potencia modelos híbri- dos incluindo ensino presencial, comunitário e homeschooling. A tecnologia deve amplificar a liberdade de escolha, não limitá-la. A formação de professores e desenvolvimento de currículos podem ser radicalmente melhorados através de IA, enquanto a formação contínua e a educação para adultos se tornam mais acessí- veis e eficazes. Mais uma vez a IA ao serviço do Professor, libertando-os de tarefas que os permitam focar-se nos alunos e na sua aquisição de conhecimentos.
+
+Na **saúde**, a IA representa uma oportunidade de revolução na eficiência e qualidade sem comprometer a dimensão humana dos cuidados médicos. Diagnósticos mais precisos, e análises mais rápidas são apenas alguns dos processos dos serviços de saúde que a IA pode apoiar de maneira a democratizar o acesso a cuidados de saúde de qualidade, mais rápidos e eficientes, podendo ainda ter mais impacto na gestão da saúde pública, auxiliando o diagnóstico precoce de doenças ou a gestão de epidemias.
+
+Ou ainda a democratização do acesso digital ao património cultural público, que representa uma oportunidade de enriquecimento social sem precedentes. Mais importante do que a criação de uma ‘’Amália GPT’’ para permitir interações de qua- lidade em português europeu - um problema temporário - que depressa será ultra- passada, seria mais urgente a digitalização e publicação de documentos históricos portugueses que estejam na esfera do Estado, assegurando a sua integração no processo de treino de futuros modelos de linguagem.
+
+Portugal pode e deve aspirar a mais do que ser mero espectador desta revolução - podemos demonstrar como uma sociedade livre abraça o progresso tecnológico enquanto preserva valores fundamentais. Com uma abordagem verdadeiramente liberal - que combine ambição com preparação responsável - Portugal tem a opor- tunidade de construir um futuro mais próspero e mais livre, contribuindo positiva- mente para a maior transformação tecnológica da nossa história

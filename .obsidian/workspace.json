@@ -4,43 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "52b42fa2a12fb538",
+        "id": "96b0b190c2e2bda1",
         "type": "tabs",
         "children": [
           {
-            "id": "9024c4059210dd2d",
+            "id": "87ee096f1e9d24ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade/(M.01) Texto da moção.md",
-                "mode": "source",
+                "file": "6. Moções Setoriais/19. Reforma do Estado/(M.19) Texto da moção.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M.01) Texto da moção"
+              "title": "(M.19) Texto da moção"
             }
-          }
-        ]
-      },
-      {
-        "id": "7176b28b4763bded",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0636110fa928da97",
+            "id": "6d159acde19cab90",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade/(M.01) PDF Original.pdf"
+                "file": "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Candidatos.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "(M.01) PDF Original"
+              "icon": "lucide-file",
+              "title": "(CE.U) Candidatos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +50,7 @@
       {
         "id": "115e109554030adc",
         "type": "tabs",
-        "dimension": 67.66666666666666,
+        "dimension": 67.66666666666667,
         "children": [
           {
             "id": "13ee01e11db6803b",
@@ -111,7 +109,7 @@
       {
         "id": "d36b24e63143b0f9",
         "type": "tabs",
-        "dimension": 32.33333333333333,
+        "dimension": 32.333333333333336,
         "children": [
           {
             "id": "60a44ad3f7a4166e",
@@ -119,17 +117,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade/(M.01) PDF Original.pdf"
+                "file": "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Candidatos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of (M.01) PDF Original"
+              "title": "Outline of (CE.U) Candidatos"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5026054382324
+    "width": 324.5
   },
   "right": {
     "id": "c8c16c824ed076d5",
@@ -164,46 +162,47 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0636110fa928da97",
+  "active": "6d159acde19cab90",
   "lastOpenFiles": [
-    "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade/(M.01) Texto da moção.md",
-    "6. Moções Setoriais/02. Moção pelos recursos naturais (minerais)/(M.02) Texto da moção.md",
-    "0. Pessoal/Intenções de Voto.md",
-    "6. Moções Setoriais/05./(M.05) Texto da moção.md",
-    "6. Moções Setoriais/05./(M.05) PDF Original.pdf",
-    "6. Moções Setoriais/04./(M.04) PDF Original.pdf",
-    "6. Moções Setoriais/04./(M.04) Texto da moção.md",
-    "6. Moções Setoriais/03. Madeira +Autonomia, +Responsabilidade/(M.03) PDF Original.pdf",
-    "6. Moções Setoriais/03. Madeira +Autonomia, +Responsabilidade/(M.03) Texto da moção.md",
-    "6. Moções Setoriais/02. Moção pelos recursos naturais (minerais)/(M.02) PDF Original.pdf",
-    "6. Moções Setoriais/01. Imigração — Um Movimento de Liberdade/(M.01) PDF Original.pdf",
-    "5. Conselho de Fiscalização/Lista T/Documentos PDF/(CF.T) Subscritores.pdf",
-    "6. Moções Setoriais/24./(M.24) PDF Original.pdf",
-    "6. Moções Setoriais/24./(M.24) Texto da moção.md",
-    "6. Moções Setoriais/23./(M.23) PDF Original.pdf",
-    "6. Moções Setoriais/23./(M.23) Texto da moção.md",
-    "6. Moções Setoriais/22./(M.22) PDF Original.pdf",
-    "6. Moções Setoriais/22./(M.22) Texto da moção.md",
-    "6. Moções Setoriais/21./(M.21) PDF Original.pdf",
-    "6. Moções Setoriais/21./(M.21) Texto da moção.md",
-    "6. Moções Setoriais/20./(M.20) Texto da moção.md",
-    "6. Moções Setoriais/19./(M.19) Texto da moção.md",
-    "6. Moções Setoriais/18./(M.18) Texto da moção.md",
-    "6. Moções Setoriais/17./(M.17) Texto da moção.md",
-    "6. Moções Setoriais/16./(M.16) Texto da moção.md",
-    "6. Moções Setoriais/15./(M.15) Texto da moção.md",
-    "6. Moções Setoriais/14/(M.14) Texto da moção.md",
-    "6. Moções Setoriais/13./(M.13) Texto da moção.md",
-    "6. Moções Setoriais/12./(M.12) Texto da moção.md",
-    "6. Moções Setoriais/11./(M.11) Texto da moção.md",
-    "6. Moções Setoriais/10./(M.10) Texto da moção.md",
-    "6. Moções Setoriais/09./(M.09) Texto da moção.md",
-    "6. Moções Setoriais/08./(M.08) Texto da moção.md",
-    "6. Moções Setoriais/07./(M.07) Texto da moção.md",
-    "6. Moções Setoriais/06./(M.06) Texto da moção.md"
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Candidatos.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Informações.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista L/Documentos PDF/(CE.L) Moção de Estratégia Global.pdf",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Moção de Estratégia Global.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista U/Mocao_Estrategia_Global_Limpa_2025_2027.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Moção de Estratégia Global.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Informações.md",
+    "3. Conselho Nacional/Lista A/(CN.A) Informações.md",
+    "3. Conselho Nacional/Lista D/(CN.D) Informações.md",
+    "3. Conselho Nacional/Lista F/(CN.F) Informações.md",
+    "3. Conselho Nacional/Lista M/(CN.M) Informações.md",
+    "3. Conselho Nacional/Lista T/(CN.T) Informações.md",
+    "3. Conselho Nacional/Lista X/(CN.X) Informações.md",
+    "3. Conselho Nacional/Lista X/(CN.X) Candidatos.md",
+    "3. Conselho Nacional/Lista T/(CN.T) Candidatos.md",
+    "3. Conselho Nacional/Lista M/(CN.M) Candidatos.md",
+    "3. Conselho Nacional/Lista F/(CN.F) Candidatos.md",
+    "3. Conselho Nacional/Lista D/(CN.D) Candidatos.md",
+    "3. Conselho Nacional/Lista A/(CN.A) Candidatos.md",
+    "4. Conselho de Jurisdição/Lista J/(CJ.J) Candidatos.md",
+    "4. Conselho de Jurisdição/Lista J/(CJ.J) Informações.md",
+    "4. Conselho de Jurisdição/Lista T/(CJ.T) Candidatos.md",
+    "4. Conselho de Jurisdição/Lista X/(CJ.X) Candidatos.md",
+    "6. Moções Setoriais/19. Reforma do Estado/(M.19) PDF Original.pdf",
+    "6. Moções Setoriais/19. Reforma do Estado/(M.19) Texto da moção.md",
+    "6. Moções Setoriais/20. Pela Defesa da Liberdade/(M.20) Texto da moção.md",
+    "6. Moções Setoriais/21. O Futuro das Nossas Cidades Exige Coragem e Liberdade, Não Coligações/(M.21) Texto da moção.md",
+    "6. Moções Setoriais/24. A Formação Integral como Pilar da Liderança Liberal/(M.24) Texto da moção.md",
+    "6. Moções Setoriais/24. A Formação Integral como Pilar da Liderança Liberal/(M.24) PDF Original.pdf",
+    "6. Moções Setoriais/23. Concorrência europeia na banca, melhores créditos, juros mais competitivos/(M.23) PDF Original.pdf",
+    "6. Moções Setoriais/22. A Iniciativa liberal como a voz do Interior/(M.22) PDF Original.pdf",
+    "6. Moções Setoriais/21. O Futuro das Nossas Cidades Exige Coragem e Liberdade, Não Coligações/(M.21) PDF Original.pdf",
+    "6. Moções Setoriais/20. Pela Defesa da Liberdade/(M.20) PDF Original.pdf",
+    "6. Moções Setoriais/18. Moção Desjudicializar, Desburocratizar, Acelerar/(M.18) PDF Original.pdf",
+    "6. Moções Setoriais/17. Territórios Inteligentes — A Smart Governance ao Serviço das Pessoas/(M.17) PDF Original.pdf",
+    "6. Moções Setoriais/16. Posição Política Nacional sobre o Poder Local/(M.16) PDF Original.pdf"
   ]
 }

@@ -1,13 +1,13 @@
 ---
 tags:
-  - CN/T
+  - CN/M
   - CN/Candidatos
 aliases:
-  - Conselho Nacional / Lista T / Candidatos
-  - Candidatos da lista T ao Conselho Nacional
+  - Conselho Nacional / Lista M / Candidatos
+  - Candidatos da lista M ao Conselho Nacional
 ---
 
-Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CN.T) Informações|Lista T]].
+Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CN.M) Informações|Lista M]].
 
 | Posição | Nº de Membro | Nome |
 | ------- | ------------ | ---- |

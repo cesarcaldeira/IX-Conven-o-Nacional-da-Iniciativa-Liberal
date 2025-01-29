@@ -1,13 +1,13 @@
 ---
 tags:
-  - CN/T
-  - CN/Candidatos
+  - CJ/X
+  - CJ/Candidatos
 aliases:
-  - Conselho Nacional / Lista T / Candidatos
-  - Candidatos da lista T ao Conselho Nacional
+  - Conselho de Jurisdição / Lista X / Candidatos
+  - Candidatos da lista X ao Conselho de Jurisdição
 ---
 
-Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CN.T) Informações|Lista T]].
+Os seguintes membros são os candidatos ao Conselho Nacional pela [[(CJ.X) Informações|Lista X]].
 
 | Posição | Nº de Membro | Nome |
 | ------- | ------------ | ---- |
