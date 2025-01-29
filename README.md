@@ -15,3 +15,9 @@ Desejo a todos uma excelente Convenção Nacional
 Saudações liberais,
 
 **César Caldeira**
+
+# Agradecimentos
+
+- Ao Gil Oliveira, o primeiro utilizador a testar esta ferramenta.
+- Ao Núcleo de Barcelos, que fez um [excelente trabalho a compilar as redes sociais e informações referentes às listas e moções](https://drive.google.com/file/d/1K9iOorVQRQrYSSSBca8heflbM0w2-IYZ/view).
+- Aos diversos membros de listas que contribuíram para as informações respetivas às suas listas.
