@@ -8,4 +8,24 @@ aliases:
 ---
 A **Lista L** é candidata à [[(CE) Informações gerais|Comissão Executiva]].
 
-**SITE:** [acelerarportugal.pt](https://acelerarportugal.pt/)
+# Páginas relacionadas
+
+- [[(CE.L) Candidatos|Candidatos]]
+- [[(CE.L) Moção de Estratégia Global|Moção de Estratégia Global]]
+
+# Documentos
+
+- [[(CE.L) Declaração de Candidatura.pdf]]
+- [[(CE.L) Moção de Estratégia Global.pdf]]
+- [[(CE.L) Subscritores.pdf]]
+
+# Informações
+
+- **Cabeça de Lista:** 
+- **Representante na Comissão Eleitoral:** 
+
+# Links Externos
+
+**Nota:** Todos os links externos são o produto da minha pesquisa e recomendação por membros das listas.
+
+- **Site:** [acelerarportugal.pt](https://acelerarportugal.pt/)
