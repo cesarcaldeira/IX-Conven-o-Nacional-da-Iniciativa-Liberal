@@ -19,8 +19,8 @@ A **lista V** é candidata ao **Conselho de Fiscalização**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Carlos Manuel Soares Chagas Roquette
+- **Representante na Comissão Eleitoral:** Carlos Manuel Soares Chagas Roquette
 
 # Links Externos
 

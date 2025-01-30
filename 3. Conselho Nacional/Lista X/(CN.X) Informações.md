@@ -19,8 +19,8 @@ A **lista X** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Pedro Miguel de Borba Ferreira
+- **Representante na Comissão Eleitoral:** Mauro André da Cunha Santos
 
 # Links Externos
 

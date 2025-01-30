@@ -19,8 +19,8 @@ A **lista D** é candidata ao **Conselho de Fiscalização**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Bruno Luís Horta Soares
+- **Representante na Comissão Eleitoral:** Isabel Milu
 
 # Links Externos
 

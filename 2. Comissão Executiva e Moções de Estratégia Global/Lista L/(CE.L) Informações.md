@@ -21,8 +21,8 @@ A **Lista L** é candidata à [[(CE) Informações gerais|Comissão Executiva]].
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Rui Nuno de Oliveira Garcia da Rocha
+- **Representante na Comissão Eleitoral:** Rui Alexandre da Costa Ribeiro
 
 # Links Externos
 

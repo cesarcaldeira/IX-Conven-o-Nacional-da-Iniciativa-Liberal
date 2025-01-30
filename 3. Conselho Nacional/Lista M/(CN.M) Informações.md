@@ -19,8 +19,8 @@ A **lista M** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:**  Jorge Ricardo Correia Lourenço Pires
+- **Representante na Comissão Eleitoral:** Filipe Pereira Bastos Rocha
 
 # Links Externos
 

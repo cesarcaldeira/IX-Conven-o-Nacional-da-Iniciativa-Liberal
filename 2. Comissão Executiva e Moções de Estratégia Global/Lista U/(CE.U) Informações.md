@@ -21,8 +21,8 @@ A **Lista U** é candidata à [[(CE) Informações gerais|Comissão Executiva]].
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Rui Pedro Teixeira Malheiro
+- **Representante na Comissão Eleitoral:** Rui Valdemar Silva Santos
 
 # Links Externos
 

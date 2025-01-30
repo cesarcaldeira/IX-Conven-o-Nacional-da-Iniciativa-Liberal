@@ -19,8 +19,8 @@ A **lista X** é candidata ao **Conselho de Jurisdição**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Miguel Barbosa
+- **Representante na Comissão Eleitoral:** Maria da Luz Costa
 
 # Links Externos
 

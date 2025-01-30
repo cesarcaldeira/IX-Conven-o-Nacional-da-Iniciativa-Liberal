@@ -19,8 +19,8 @@ A **lista T** é candidata ao **Conselho de Fiscalização**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** António Pedro Ribeiro Neves da Mata
+- **Representante na Comissão Eleitoral:**  Luis Diogo Pinto Golias Batalha Graça
 
 # Links Externos
 

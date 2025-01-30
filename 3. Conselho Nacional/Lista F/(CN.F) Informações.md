@@ -19,8 +19,8 @@ A **lista F** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Bernardo Alves Martinho Amaral Blanco
+- **Representante na Comissão Eleitoral:** Fátima da Conceição Pereira Duarte Amaro
 
 # Links Externos
 

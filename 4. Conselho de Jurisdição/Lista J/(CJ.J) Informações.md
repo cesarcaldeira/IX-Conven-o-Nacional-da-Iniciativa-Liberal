@@ -19,8 +19,8 @@ A **lista J** é candidata ao **Conselho de Jurisdição**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Ana Isabel Fernão Pires da Silva Caio
+- **Representante na Comissão Eleitoral:** João Carlos Rosa Peneda
 
 # Links Externos
 

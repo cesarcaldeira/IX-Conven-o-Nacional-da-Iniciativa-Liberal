@@ -19,8 +19,8 @@ A **lista A** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Francisco Menéres Cudell Frias de Sá de Araújo Lima
+- **Representante na Comissão Eleitoral:** Gonçalo Nuno Pinto Ascensão Costa Santos
 
 # Links Externos
 

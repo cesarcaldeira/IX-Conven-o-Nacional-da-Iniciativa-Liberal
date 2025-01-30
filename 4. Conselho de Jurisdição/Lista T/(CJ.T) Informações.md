@@ -19,8 +19,8 @@ A **lista T** é candidata ao **Conselho de Jurisdição**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Armando Carlos Duarte Gonçalves Pereira
+- **Representante na Comissão Eleitoral:** Paula Maria Tavares de Carvalho
 
 # Links Externos
 

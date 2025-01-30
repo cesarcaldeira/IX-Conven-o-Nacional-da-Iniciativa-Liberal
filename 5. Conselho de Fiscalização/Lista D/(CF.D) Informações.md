@@ -19,8 +19,8 @@ A **lista D** é candidata ao **Conselho de Fiscalização**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Diamantino Tomás Maia da Costa
+- **Representante na Comissão Eleitoral:** David André Teixeira de Almeida
 
 # Links Externos
 

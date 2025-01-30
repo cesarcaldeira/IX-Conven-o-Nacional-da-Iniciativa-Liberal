@@ -19,8 +19,8 @@ A **lista T** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** André Ferreira de Serpa Soares
+- **Representante na Comissão Eleitoral:** José Pedro de Carvalho Santos de Sousa Barros
 
 # Links Externos
 

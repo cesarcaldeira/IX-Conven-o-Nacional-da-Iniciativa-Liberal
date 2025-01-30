@@ -19,8 +19,8 @@ A **lista D** é candidata ao **Conselho Nacional**.
 
 # Informações
 
-- **Cabeça de Lista:** 
-- **Representante na Comissão Eleitoral:** 
+- **Cabeça de Lista:** Paulo Ricardo Lopes
+- **Representante na Comissão Eleitoral:** Ricardo Monteiro
 
 # Links Externos
 
