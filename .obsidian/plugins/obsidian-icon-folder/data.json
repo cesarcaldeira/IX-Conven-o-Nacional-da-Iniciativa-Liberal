@@ -6,11 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiList",
       "LiListTodo",
       "LiSmile",
-      "LiCalendarCheck",
-      "LiFileText",
-      "LiBadgeInfo"
+      "LiCalendarCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -137,5 +136,6 @@
   "6. Moções Setoriais/20. Pela Defesa da Liberdade": "LiListTodo",
   "6. Moções Setoriais/21. O Futuro das Nossas Cidades Exige Coragem e Liberdade, Não Coligações": "LiListTodo",
   "6. Moções Setoriais/22. A Iniciativa liberal como a voz do Interior": "LiListTodo",
-  "6. Moções Setoriais/23. Concorrência europeia na banca, melhores créditos, juros mais competitivos": "LiListTodo"
+  "6. Moções Setoriais/23. Concorrência europeia na banca, melhores créditos, juros mais competitivos": "LiListTodo",
+  "1. Convenção Nacional/Inscritos.md": "LiList"
 }
