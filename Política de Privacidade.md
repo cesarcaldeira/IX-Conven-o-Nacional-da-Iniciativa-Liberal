@@ -1,0 +1,3 @@
+A ferramenta de intenções de votos não recolhe dados das vossas notas. A pasta que fazem download no GitHub contém apenas uma pasta escondida `.obsidian` que contém os ficheiros necessários ao funcionamento da mesma no programa Obsidian (que ajuda à leitura destes dados). Estes ficheiros em nada afetam a vossa privacidade — tudo isto funciona sem acesso à internet, e os dados são guardados localmente.
+
+Além disso, relativamente à ferramenta digital disponível em [https://publish.obsidian.md/iniciativaliberal-cn9/](https://publish.obsidian.md/iniciativaliberal-cn9/README), esta é apenas a versão web do repositório. Não são recolhidos dados nenhuns. Para mais informações, consultem a [política de privacidade do Obsidian](https://obsidian.md/privacy).

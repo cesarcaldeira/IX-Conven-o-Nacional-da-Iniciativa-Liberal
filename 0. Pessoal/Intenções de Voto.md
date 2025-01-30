@@ -4,6 +4,8 @@ tags:
 ---
 O presente documento serve para poderes tomar nota das tuas intenções de voto para as eleições aos diversos órgãos do Partido e das moções a serem votadas na Convenção.
 
+Para utilizadores no site, ficam a saber que quando fecharem a janela que contém as vossas intenções de voto perdem acesso às mesmas (os dados não ficam guardados nem localmente no vosso browser, nem em servidor algum). Para mais informações, consultem a [[Política de Privacidade]].
+
 ## Candidaturas à Comissão Executiva e Moções de Estratégia Global
 
 - [ ] **[[(CE.L) Informações|Lista L]]**
