@@ -66,7 +66,7 @@ O presente documento serve para poderes tomar nota das tuas intenções de voto 
 	- **Documentos PDF:**
 		- [[(CJ.T) Declaração de Candidatura.pdf]]
 		- [[(CJ.T) Subscritores.pdf]]
-- [ ] **[[(CN.X) Informações|Lista X]]**
+- [ ] **[[(CJ.X) Informações|Lista X]]**
 	- [[(CJ.X) Candidatos|Candidatos]]
 	- **Documentos PDF:**
 		- [[(CJ.X) Declaração de Candidatura.pdf]]
