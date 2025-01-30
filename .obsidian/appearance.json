@@ -3,7 +3,7 @@
   "theme": "system",
   "accentColor": "#00aeef",
   "showViewHeader": true,
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Arial",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "monospaceFontFamily": ""
 }

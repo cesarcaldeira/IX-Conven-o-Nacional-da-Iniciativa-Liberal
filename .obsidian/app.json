@@ -1,9 +1,14 @@
 {
   "showInlineTitle": true,
-  "showRibbon": true,
-  "propertiesInDocument": "visible",
+  "showRibbon": false,
+  "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
   "showIndentGuide": false,
   "defaultViewMode": "preview",
-  "showLineNumber": true
+  "showLineNumber": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "readableLineLength": true,
+  "livePreview": true,
+  "newLinkFormat": "absolute"
 }

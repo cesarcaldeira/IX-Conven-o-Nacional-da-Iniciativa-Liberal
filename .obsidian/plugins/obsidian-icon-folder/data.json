@@ -95,7 +95,10 @@
     "iconName": "LiFileText",
     "iconColor": "#00ffff"
   },
-  "0. Pessoal": "LiSmile",
+  "0. Pessoal": {
+    "iconName": "LiSmile",
+    "iconColor": "#ffdd00"
+  },
   "0. Pessoal/Intenções de Voto.md": "LiVote",
   "0. Pessoal/Notas": "LiNotebookPen",
   "3. Conselho Nacional/Lista A/Documentos PDF": "LiFileText",
