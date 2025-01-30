@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e24ca3628706f509",
+        "id": "3dd39370f5e8e8b2",
         "type": "tabs",
         "children": [
           {
-            "id": "68ec616d3087bf3b",
+            "id": "7830c6e2e449e464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Convenção Nacional/Inscritos.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Inscritos"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CE/Candidatos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,10 +101,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Convenção Nacional/Inscritos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Inscritos"
             }
           }
         ]
@@ -144,14 +144,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68ec616d3087bf3b",
+  "active": "7830c6e2e449e464",
   "lastOpenFiles": [
+    "1. Convenção Nacional/Programa da Convenção.md",
+    "1. Convenção Nacional/Inscritos.md",
+    "Manuel José Guerreiro.md",
+    "0. Pessoal/Intenções de Voto.md",
+    "README.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/(CE) Informações gerais.md",
+    "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Candidatos.md",
     "2. Comissão Executiva e Moções de Estratégia Global/Lista L/(CE.L) Informações.md",
     "2. Comissão Executiva e Moções de Estratégia Global/Lista U/(CE.U) Informações.md",
     "3. Conselho Nacional/Lista A/(CN.A) Informações.md",
@@ -167,17 +174,9 @@
     "5. Conselho de Fiscalização/Lista T/(CF.T) Informações.md",
     "5. Conselho de Fiscalização/Lista V/(CF.V) Informações.md",
     "5. Conselho de Fiscalização/Lista X/(CF.X) Informações.md",
-    "0. Pessoal/Intenções de Voto.md",
-    "README.md",
     "0..md",
     "3. Conselho Nacional/Lista A/(CN.A) Candidatos.md",
-    "2. Comissão Executiva e Moções de Estratégia Global/(CE) Informações gerais.md",
     "5. Conselho de Fiscalização/Lista X/(CF.X) Candidatos.md",
-    "5. Conselho de Fiscalização/Lista V/(CF.V) Candidatos.md",
-    "5. Conselho de Fiscalização/Lista T/(CF.T) Candidatos.md",
-    "5. Conselho de Fiscalização/Lista D/(CF.D) Candidatos.md",
-    "4. Conselho de Jurisdição/Lista X/(CJ.X) Candidatos.md",
-    "4. Conselho de Jurisdição/Lista J/(CJ.J) Candidatos.md",
     "3. Conselho Nacional/Lista A/Documentos PDF/(CN.A) Declaração de Candidatura.pdf",
     "6. Moções Setoriais/06. Inteligência Artificial Liberal/(M.06) PDF Original.pdf",
     "2. Comissão Executiva e Moções de Estratégia Global/Lista L/Documentos PDF/(CE.L) Moção de Estratégia Global.pdf",
