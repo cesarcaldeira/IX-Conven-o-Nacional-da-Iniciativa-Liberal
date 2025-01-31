@@ -22,6 +22,7 @@ Para utilizadores no site, ficam a saber que quando fecharem a janela que conté
 		- [[(CE.U) Declaração de Candidatura.pdf]]
 		- [[(CE.U) Declaração de Candidatura.pdf]]
 		- [[(CE.U) Subscritores.pdf]]
+- [ ] *Abstenção / Voto em branco*
 
 ## Candidaturas ao Conselho Nacional
 
@@ -55,6 +56,7 @@ Para utilizadores no site, ficam a saber que quando fecharem a janela que conté
 	- **Documentos PDF:**
 		- [[(CN.X) Declaração de Candidatura.pdf]]
 		- [[(CN.X) Subscritores.pdf]]
+- [ ] *Abstenção / Voto em branco*
 
 ## Candidaturas ao Conselho de Jurisdição
 
@@ -73,6 +75,7 @@ Para utilizadores no site, ficam a saber que quando fecharem a janela que conté
 	- **Documentos PDF:**
 		- [[(CJ.X) Declaração de Candidatura.pdf]]
 		- [[(CJ.X) Subscritores.pdf]]
+- [ ] *Abstenção / Voto em branco*
 
 ## Candidaturas ao Conselho de Fiscalização
 
@@ -96,54 +99,151 @@ Para utilizadores no site, ficam a saber que quando fecharem a janela que conté
 	- **Documentos PDF:**
 		- [[(CF.X) Declaração de Candidatura.pdf]]
 		- [[(CF.X) Subscritores.pdf]]
+- [ ] *Abstenção / Voto em branco*
 
 ## Moções Setoriais
 
-1. [ ] **[[(M.01) Texto da moção|Imigração — Um Movimento de Liberdade]]**
+1. **[[(M.01) Texto da moção|Imigração — Um Movimento de Liberdade]]**
 	- [[(M.01) PDF Original.pdf]]
-2. [ ] **[[(M.02) Texto da moção|Moção pelos recursos naturais (minerais)]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+2. **[[(M.02) Texto da moção|Moção pelos recursos naturais (minerais)]]**
 	- [[(M.02) PDF Original.pdf]]
-3. [ ] **[[(M.03) Texto da moção|Madeira: +Autonomia, +Responsabilidade]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+3. **[[(M.03) Texto da moção|Madeira: +Autonomia, +Responsabilidade]]**
 	- [[(M.03) PDF Original.pdf]]
-4. [ ] **[[(M.04) Texto da moção|Educação para Adultos em Portugal como Impulsionador do Elevador Social e em Resposta às Necessidades do Mercado de Trabalho]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+4. **[[(M.04) Texto da moção|Educação para Adultos em Portugal como Impulsionador do Elevador Social e em Resposta às Necessidades do Mercado de Trabalho]]**
 	- [[(M.04) PDF Original.pdf]]
-5. [ ] **[[(M.05) Texto da moção|Revitalizar o Interior: Descentralizar, Desburocratizar e Desenvolver]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+5. **[[(M.05) Texto da moção|Revitalizar o Interior: Descentralizar, Desburocratizar e Desenvolver]]**
 	- [[(M.05) PDF Original.pdf]]
-6. [ ] **[[(M.06) Texto da moção|Inteligência Artificial Liberal]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+6. **[[(M.06) Texto da moção|Inteligência Artificial Liberal]]**
 	- [[(M.06) PDF Original.pdf]]
-7. [ ] **[[(M.07) Texto da moção|Sem Segurança não há Liberdade]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+7. **[[(M.07) Texto da moção|Sem Segurança não há Liberdade]]**
 	- [[(M.07) PDF Original.pdf]]
-8. [ ] **[[(M.08) Texto da moção|Afuera — Menos Estado, Mais Liberdade]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+8. **[[(M.08) Texto da moção|Afuera — Menos Estado, Mais Liberdade]]**
 	- [[(M.08) PDF Original.pdf]]
-9. [ ] **[[(M.09) Texto da moção|Portugal no Mundo — Política Externa Liberal]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+9. **[[(M.09) Texto da moção|Portugal no Mundo — Política Externa Liberal]]**
 	- [[(M.09) PDF Original.pdf]]
-10. [ ] **[[(M.10) Texto da moção|Liberalismo é Qualidade de Vida]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+10. **[[(M.10) Texto da moção|Liberalismo é Qualidade de Vida]]**
 	- [[(M.10) PDF Original.pdf]]
-11. [ ] **[[(M.11) Texto da moção|Portugal a Mexer, Portugal a Crescer]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+11. **[[(M.11) Texto da moção|Portugal a Mexer, Portugal a Crescer]]**
 	- [[(M.11) PDF Original.pdf]]
-12. [ ] **[[(M.12) Texto da moção|Mar — Destino, Herança e Orgulho, a nossa ZEE]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+12. **[[(M.12) Texto da moção|Mar — Destino, Herança e Orgulho, a nossa ZEE]]**
 	- [[(M.12) PDF Original.pdf]]
-13. [ ] **[[(M.13) Texto da moção|Seniores Activos. Um Público a Conquistar]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+13. **[[(M.13) Texto da moção|Seniores Activos. Um Público a Conquistar]]**
 	- [[(M.13) PDF Original.pdf]]
-14. [ ] **[[(M.14) Texto da moção|A Semana de 4 Dias (ou menos) é o Futuro. Vamos Trabalhar para Isso!]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+14. **[[(M.14) Texto da moção|A Semana de 4 Dias (ou menos) é o Futuro. Vamos Trabalhar para Isso!]]**
 	- [[(M.14) PDF Original.pdf]]
-15. [ ] **[[(M.15) Texto da moção|Desafios de Educação numa Sociedade Multicultural]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+15. **[[(M.15) Texto da moção|Desafios de Educação numa Sociedade Multicultural]]**
 	- [[(M.15) PDF Original.pdf]]
-16. [ ] **[[(M.16) Texto da moção|Posição Política Nacional sobre o Poder Local]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+16. **[[(M.16) Texto da moção|Posição Política Nacional sobre o Poder Local]]**
 	- [[(M.16) PDF Original.pdf]]
-17. [ ] **[[(M.17) Texto da moção|Territórios Inteligentes: A Smart Governance ao Serviço das Pessoas]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+17. **[[(M.17) Texto da moção|Territórios Inteligentes: A Smart Governance ao Serviço das Pessoas]]**
 	- [[(M.17) PDF Original.pdf]]
-18. [ ] **[[(M.18) Texto da moção|Moção Desjudicializar, Desburocratizar, Acelerar]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+18. **[[(M.18) Texto da moção|Moção Desjudicializar, Desburocratizar, Acelerar]]**
 	- [[(M.18) PDF Original.pdf]]
-19. [ ] **[[(M.19) Texto da moção|Reforma do Estado]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+19. **[[(M.19) Texto da moção|Reforma do Estado]]**
 	- [[(M.19) PDF Original.pdf]]
-20. [ ] **[[(M.20) Texto da moção|Pela Defesa da Liberdade]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+20. **[[(M.20) Texto da moção|Pela Defesa da Liberdade]]**
 	- [[(M.20) PDF Original.pdf]]
-21. [ ] **[[(M.21) Texto da moção|O Futuro das Nossas Cidades Exige Coragem e Liberdade, Não Coligações]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+21. **[[(M.21) Texto da moção|O Futuro das Nossas Cidades Exige Coragem e Liberdade, Não Coligações]]**
 	- [[(M.21) PDF Original.pdf]]
-22. [ ] **[[(M.22) Texto da moção|A Iniciativa Liberal como a voz do Interior]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+22. **[[(M.22) Texto da moção|A Iniciativa Liberal como a voz do Interior]]**
 	- [[(M.22) PDF Original.pdf]]
-23. [ ] **[[(M.23) Texto da moção|Concorrência europeia na banca, melhores créditos, juros mais competitivos]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+23. **[[(M.23) Texto da moção|Concorrência europeia na banca, melhores créditos, juros mais competitivos]]**
 	- [[(M.23) PDF Original.pdf]]
-24. [ ] **[[(M.24) Texto da moção|A Formação Integral como Pilar da Liderança Liberal]]**
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
+24. **[[(M.24) Texto da moção|A Formação Integral como Pilar da Liderança Liberal]]**
 	- [[(M.24) PDF Original.pdf]]
+	- **Intenção de voto:**
+		- [ ] Favor
+		- [ ] Contra
+		- [ ] Abstenção
